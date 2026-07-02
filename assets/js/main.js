@@ -12,7 +12,7 @@
       'nav-services':  'Servicios',
       'nav-contact':   'Contacto',
       'hero-badge':    'Disponible para proyectos freelance',
-      'hero-cta-1':    'Ver Portfolio',
+      'hero-cta-1':    'Ver Portafolio ',
       'hero-cta-2':    'Contáctame',
       'hero-typed':    'Desarrollo Web,Integración de IA,Analista de Infraestructura TI,Diseño UI/UX',
       'about-label':   'Sobre mí',
